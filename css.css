@@ -1,0 +1,50 @@
+h2 {
+	    		padding-bottom: 20px;
+	    		padding: 50px 100px;
+	    	}
+	    	.fa {
+
+	    	}
+	    	.fa:hover{
+	    		/* */
+	    		opacity: 0.77;
+	    	}
+	    	.fa-facebook {
+	    		background: #385998;
+	    		color: while;
+	    		padding: 7px 15px;
+	    		border-radius: 12px 12px; 
+	    	}
+	    	.fa-twitter {
+	    		background: #0099FF;
+	    		color: while;
+	    		padding: 7px 15px;
+	    		border-radius: 11px 11px; 
+	    	}
+	    	.fa-google {
+	    		background: #dc4a38;
+	    		color: while;
+	    		padding: 7px 15px;
+	    		border-radius: 11px 11px; 
+
+	    	}
+	    	.fa-linkedin {
+	    		background: #0033cc;
+	    		color: while;
+	    		padding: 7px 15px;
+	    		border-radius: 11px 11px; 
+
+	        }
+	        .fa-skype {
+	        	background: #003366;
+	        	color: while;
+	        	padding: 7px 15px;
+	        	border-radius: 11px 11px; 
+	        }
+	        .fa-pinterest {
+	        	background: #FF0033;
+	        	color: while;
+	        	padding: 7px 15px;
+	        	border-radius: 11px 11px; 
+
+	        }
